@@ -8,8 +8,13 @@ All my leetcode work
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0001-two-sum/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
