@@ -1,12 +1,19 @@
 class Solution {
-    public int findNumbers(int[] nums) {
+    public boolean nos(int nums){
         int count=0;
-        for(int i:nums){
-            int len=String.valueOf(i).length();
-            if(len%2==0){
-                count++;
+        while(nums!=0){
+            nums=nums/10;
+            count++;
+        }
+        return count%2==0;
+    }
+    public int findNumbers(int[] nums){
+        int count2=0;
+        for(int i=0;i<nums.length;i++){
+            if(nos(nums[i])){
+                count2++;
             }
         }
-        return count;
+        return count2;
     }
 }
