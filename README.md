@@ -7,6 +7,7 @@ All my leetcode work
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/1089-duplicate-zeros/) | Easy |
@@ -22,10 +23,12 @@ All my leetcode work
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/1089-duplicate-zeros/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
