@@ -7,6 +7,7 @@ All my leetcode work
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -44,4 +45,8 @@ All my leetcode work
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
